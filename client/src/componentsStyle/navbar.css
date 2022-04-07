@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    max-width: 100%;
+}
+
+.userMenu{
+    display: flex;
+}
+
+#link-user-menu{
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    margin-right: 0px;
+    margin-left: 10px;
+}

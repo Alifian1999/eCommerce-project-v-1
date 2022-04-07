@@ -1,0 +1,48 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-main{
+    background-image: url(../../public/images/images-project/e-commerce-orange-background_23-2147650065.webp);
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 222px;
+    padding-top: 100px;
+    margin-top: 10px;
+}
+
+.container-main button{
+    margin-top: 20px;
+}
+
+.form-container{
+    margin: auto;
+    border: 1px solid red;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+    background-color: white;
+}
+
+.sub-form-a{
+    margin-top: 10px;
+}
+
+.sub-form-a input{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.header{
+    margin: auto;
+    padding-top: 40px;
+}

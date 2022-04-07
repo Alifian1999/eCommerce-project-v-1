@@ -1,0 +1,42 @@
+
+.container-main-add-product{
+    display: flex;
+    max-width: 100%;
+    margin-top: 140px;
+    margin-bottom: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-main-add-product button{
+    padding: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.container-main-add-product img{
+    width: 70px;
+    margin: auto;
+}
+
+.container-input-add-product{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description{
+    padding: 5px;
+    width: 300px;
+    height: 120px;
+    text-align: start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text-area{
+    resize: none;
+    padding: 5px;
+}
